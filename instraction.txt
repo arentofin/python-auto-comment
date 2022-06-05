@@ -1,0 +1,7 @@
+open cmd > type= pip install pyautogui
+
+install python in the computer 
+
+
+to run the program 
+> python3 auto.py
